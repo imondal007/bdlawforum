@@ -11,3 +11,19 @@
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
+
+
+#masthead {
+    background: #E5A500;
+    color: #fff;
+}
+
+.main-navigation {
+    background-color: #e5a500;
+}
+
+@media (min-width: 48em) {
+	.main-navigation li {
+	    background-color: #e5a500;
+	}
+}
